@@ -1,3 +1,21 @@
+메인화면
+![메인화면](https://user-images.githubusercontent.com/105212882/217567377-da55b453-6e2c-44dc-b5fd-e89dba3a6136.png)
+
+로그인
+![로그인](https://user-images.githubusercontent.com/105212882/217567403-ca230584-024e-4bc3-b6bb-6d697441c24e.PNG)
+
+로그인 후
+![로그인 후](https://user-images.githubusercontent.com/105212882/217567431-d2e8142c-e75d-4ab0-b41c-e012a6f99d91.PNG)
+
+홈 화면
+![홈 화면](https://user-images.githubusercontent.com/105212882/217567465-02abb66f-cf6b-4cf8-8f0c-dd71e3590c19.PNG)
+
+홈 화면 마우스 호버시 비디오 재생
+![홈 화면 마우스 호버시 비디오 재생](https://user-images.githubusercontent.com/105212882/217567530-fc583076-5509-4773-a429-070ba2586a69.PNG)
+
+영화 상세페이지
+![영화 상세페이지](https://user-images.githubusercontent.com/105212882/217567594-b0cea7c7-a9cc-492a-817f-ce023b6c5141.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
